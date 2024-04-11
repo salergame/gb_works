@@ -2,7 +2,7 @@ import random
 import time
 import concurrent.futures
 import asyncio
-
+#спасибр за семинар
 arr = [random.randint(1, 100) for _ in range(1000000)]
 
 def multi_threaded_sum(arr):
